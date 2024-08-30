@@ -1,0 +1,8 @@
+# Gitignore file
+
+*.RData
+*.Rhistory
+/.Rproj.user
+
+# Dataset
+amazon_alexa.csv
