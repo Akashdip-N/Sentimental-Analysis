@@ -31,4 +31,5 @@ The output of this project is the word cloud and a bar plot is generated after p
 
 And here are the output images:
 ![Bar Plot](Plots_and_Diagrams/Bar_Plot.png)
+
 ![Word Cloud](Plots_and_Diagrams/Word_Cloud.png)
