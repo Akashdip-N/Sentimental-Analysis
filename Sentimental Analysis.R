@@ -97,4 +97,3 @@ barplot(colSums(s), las=2, col=rainbow(10),ylab='Count',main='Sentiment')
 # Sentiment Analysis
 pos.words <- scan(file='positive-words.txt', what='character')
 neg.words <- scan(file = 'negative-words.txt', what='character')
-
