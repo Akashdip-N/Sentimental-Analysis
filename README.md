@@ -30,6 +30,5 @@ The code for this project is provided in the `Sentimental Analysis.R` file.
 The output of this project is the word cloud and a bar plot is generated after performing sentimental analysis on the Amazon Echo Custom reviews dataset.
 
 And here are the output images:
-![Bar Plot](Plots_and_Diagrams/Bar_Plot.png)
-
-![Word Cloud](Plots_and_Diagrams/Word_Cloud.png)
+  ![Bar Plot](Plots_and_Diagrams/Bar_Plot.png)
+  ![Word Cloud](Plots_and_Diagrams/Word_Cloud.png)
